@@ -8,5 +8,8 @@ you need is to get "python" installed on your machine.
 Since I am using Mac OSX, this means that python 2.7.3 is pre-installed.
 According to Juniper site - http://www.juniper.net/techpubs/en_US/junos-pyez1.2/topics/task/installation/junos-pyez-server-installing.html - I also need XCode.
 
+Why do I need XCode. XCode comes with many development tools installed.
+If you are planning to use Python, I recommend you install PyCharm.
+PyCharm is an IDE designed specifically to be use wit hand
 
 
